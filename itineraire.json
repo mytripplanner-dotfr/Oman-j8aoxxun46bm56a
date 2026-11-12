@@ -1,0 +1,278 @@
+{
+  "pays": "Oman",
+  "drapeau": "🇴🇲",
+  "symbole": "🕌",
+  "titre": "Douceurs d'Arabie : Oasis, Patrimoine et Sérénité",
+  "budget_total": "Environ 1 150 €/personne",
+  "duree": "7 jours",
+  "date_debut": "2026-12-19",
+  "date_fin": "2026-12-26",
+  "temps_vol": "7h15 depuis Paris, france",
+  "escale": "0",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée paisible à Mascate",
+      "legende": "Bienvenue au sultanat d'Oman sous la douce chaleur de l'hiver oriental.\nAprès votre vol direct depuis Paris, rejoignez sereinement votre hôtel pour vous rafraîchir.\nEn fin d'après-midi, accordez-vous une première flânerie décontractée le long du front de mer.\nLe golfe scintille au soleil couchant tandis que flottent les effluves d'encens des ruelles voisines.",
+      "lieu": "Mascate",
+      "activites": [
+        "<strong>🛬 Bienvenue à Mascate</strong>: Atterrissage sans encombre et installation tranquille dans votre hôtel pour un repos mérité.",
+        "<strong>🌊 Flânerie sur la Corniche de Mutrah</strong>: Promenade douce au bord de l'eau face aux boutres traditionnels amarrés dans la baie."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Mutrah Corniche, Mascate",
+          "categorie": "Promenade",
+          "coords": { "lat": 23.6272, "lng": 58.5638 }
+        }
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "Rythme doux",
+          "texte": "Après le trajet aérien, la première soirée est pensée pour se reposer et s'acclimater sans effort physique."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🕌",
+      "titre": "Élégance et senteurs de la capitale",
+      "legende": "Débutez votre journée par la majestueuse Grande Mosquée et son architecture raffinée en marbre blanc.\nRejoignez ensuite le souk ombragé de Mutrah pour une immersion feutrée parmi les parfums d'Orient.\nAdmirez les étoffes soyeuses et les bijoux d'argent sans précipitation au fil des allées abritées.\nPoursuivez vers le sobre palais royal Al Alam flanqué de ses sentinelles de pierre face à la mer.",
+      "lieu": "Mascate",
+      "activites": [
+        "<strong>🕌 Grande Mosquée du Sultan Qaboos</strong>: Contemplation sereine des cours de marbre et du dôme somptueusement ouvragé dans un silence apaisant.",
+        "<strong>🏺 Visite du Souk de Mutrah</strong>: Déambulation sensorielle rythmée par l'encens argenté, les dattes fraîches et l'artisanat délicat.",
+        "<strong>🏛️ Promenade au Palais Al Alam</strong>: Halte paisible devant la façade colorée de la résidence officielle gardée par les forts historiques."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Sultan Qaboos Grand Mosque, Mascate",
+          "categorie": "Monument religieux",
+          "coords": { "lat": 23.5837, "lng": 58.3888 }
+        },
+        {
+          "nom_recherche": "Mutrah Souq, Mascate",
+          "categorie": "Marché",
+          "coords": { "lat": 23.6231, "lng": 58.5645 }
+        },
+        {
+          "nom_recherche": "Al Alam Palace, Mascate",
+          "categorie": "Palais",
+          "coords": { "lat": 23.6158, "lng": 58.5947 }
+        }
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "👗",
+          "titre": "Tenue respectueuse",
+          "texte": "Pour la mosquée, prévoyez des vêtements couvrants (bras et jambes) ainsi qu'un foulard pour les femmes."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🏰",
+      "titre": "Histoire et palmeraies à Nizwa",
+      "legende": "Prenez la route vers l'ancienne capitale culturelle au cœur des massifs montagneux omanais.\nExplorez la forteresse emblématique de Nizwa réputée pour sa monumentale tour circulaire restaurée.\nAprès un déjeuner réconfortant, plongez dans l'écrin vert et relaxant de l'oasis de Birkat Al Mouz.\nSuivez les canaux du falaj ancestral murmurant sous les hauts dattiers protecteurs.",
+      "lieu": "Nizwa",
+      "activites": [
+        "<strong>🏰 Découverte du Fort de Nizwa</strong>: Balade sur les remparts crénelés qui offrent un panorama dégagé sur les monts Hajar.",
+        "<strong>🌴 Promenade à Birkat Al Mouz</strong>: Marche bucolique et plane au cœur d'une ancienne palmeraie bercée par les cours d'eau traditionnels."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Nizwa Fort, Nizwa",
+          "categorie": "Monument historique",
+          "coords": { "lat": 22.9333, "lng": 57.5303 }
+        },
+        {
+          "nom_recherche": "Birkat Al Mouz, Nizwa",
+          "categorie": "Oasis et patrimoine",
+          "coords": { "lat": 22.9217, "lng": 57.6717 }
+        }
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "💧",
+          "titre": "Le système Falaj",
+          "texte": "Ces canaux d'irrigation classés à l'UNESCO rafraîchissent l'air ambiant et invitent à une déconnexion totale."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "♨️",
+      "titre": "Bain thermal et forteresse de Nakhal",
+      "legende": "Évadez-vous vers la vallée paisible de Nakhal nichée au pied des falaises ocre.\nOffrez-vous un moment de détente absolue en trempant vos pieds dans une source thermale chaude naturelle.\nLaissez les petits poissons d'eau douce prodiguer un gommage naturel sous la brise légère.\nPoursuivez la journée par la visite tranquille de la forteresse séculaire surplombant le verger.",
+      "lieu": "Nakhal",
+      "activites": [
+        "<strong>♨️ Détente aux sources d'Ain Al Thowarah</strong>: Relaxation bienfaisante les pieds immergés dans des eaux thermales tièdes bordées de lauriers-roses.",
+        "<strong>🌿 Visite contemplative du Fort de Nakhal</strong>: Découverte sans fatigue de cette bâtisse historique construite sur un promontoire de roche nue."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Ain Al Thowarah, Nakhal",
+          "categorie": "Source thermale",
+          "coords": { "lat": 23.3768, "lng": 57.8286 }
+        },
+        {
+          "nom_recherche": "Nakhal Fort, Nakhal",
+          "categorie": "Forteresse",
+          "coords": { "lat": 23.3950, "lng": 57.8294 }
+        }
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "🧖‍♂️",
+          "titre": "Bien-être naturel",
+          "texte": "La source d'Ain Al Thowarah est parfaite pour se ressourcer dans un cadre naturel ombragé très reposant."
+        }
+      ]
+    },
+    {
+      "jour": 5,
+      "symbole": "⛺",
+      "titre": "Magie dorée des Wahiba Sands",
+      "legende": "Rejoignez en véhicule tout confort l'immensité ondulante du désert des Wahiba Sands.\nInstallez-vous dans un campement bédouin paisible où l'accueil chaleureux rime avec kahwa et dattes.\nLoin de toute agitation urbaine, admirez le spectacle grandiose du crépuscule flamboyant sur les crêtes de sable.\nLa nuit dévoile ensuite un ciel constellé d'étoiles d'une pureté saisissante propice à la méditation.",
+      "lieu": "Wahiba Sands",
+      "activites": [
+        "<strong>☕ Accueil bédouin traditionnel</strong>: Dégustation de café omanais à la cardamome et installation douillette dans un campement de charme.",
+        "<strong>🌅 Contemplation du coucher de soleil</strong>: Courte montée sur une crête sablonneuse pour contempler les vagues dorées s'étendant à perte de vue."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Wahiba Sands, Bidiyah",
+          "categorie": "Désert",
+          "coords": { "lat": 22.4667, "lng": 58.7500 }
+        }
+      ],
+      "illustration": "jour5.jpg",
+      "encarts": [
+        {
+          "symbole": "🌌",
+          "titre": "Ciel étoilé",
+          "texte": "Prévoyez une petite laine le soir : les nuits d'hiver dans le désert sont délicieusement fraîches."
+        }
+      ]
+    },
+    {
+      "jour": 6,
+      "symbole": "⛵",
+      "titre": "Brise côtière et histoire navale à Sur",
+      "legende": "Quittez la quiétude des dunes pour retrouver la brise marine vivifiante de la cité côtière de Sur.\nExplorez les ateliers maritimes où s'élaborent avec patience les boutres en bois selon des gestes ancestraux.\nFlânez au bord de la lagune en observant les reflets blancs des maisons du quartier pittoresque d'Al Ayjah.\nPrenez le temps d'un thé à la menthe face au large pour clore l'après-midi en toute tranquillité.",
+      "lieu": "Sur",
+      "activites": [
+        "<strong>⛵ Chantier naval traditionnel de Sur</strong>: Découverte sereine de la fabrication artisanale des légendaires navires en teck sculpté.",
+        "<strong>🗼 Balade au phare d'Al Ayjah</strong>: Pause maritime au pied du phare offrant une perspective panoramique sur l'entrée du port naturel."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Dhow Factory, Sur",
+          "categorie": "Artisanat maritime",
+          "coords": { "lat": 22.5694, "lng": 59.5283 }
+        },
+        {
+          "nom_recherche": "Al Ayjah Lighthouse, Sur",
+          "categorie": "Phare",
+          "coords": { "lat": 22.5711, "lng": 59.5350 }
+        }
+      ],
+      "illustration": "jour6.jpg",
+      "encarts": [
+        {
+          "symbole": "🌊",
+          "titre": "Atmosphère paisible",
+          "texte": "Sur est l'endroit rêvé pour savourer des poissons grillés fraîchement pêchés dans les eaux du golfe."
+        }
+      ]
+    },
+    {
+      "jour": 7,
+      "symbole": "💎",
+      "titre": "Eaux turquoise de Bimmah et retour",
+      "legende": "Remontez la côte omanaise vers Mascate en marquant un arrêt reposant au gouffre calcaire de Bimmah.\nAdmirez ses eaux turquoise cristallines aménagées dans un parc fleuri propice à une pause bucolique.\nRegagnez la capitale pour vos dernières emplettes parfumées et un thé gourmand en terrasse.\nClôturez votre voyage le cœur léger avant votre transfert vers l'aéroport pour le vol retour vers Paris.",
+      "lieu": "Mascate",
+      "activites": [
+        "<strong>💎 Halte au gouffre de Bimmah</strong>: Pause contemplative devant cette curiosité géologique d'eau émeraude accessible par un escalier aisé.",
+        "<strong>🛍️ Dernières douceurs omanaises</strong>: Sélection d'encens et de halwa artisanale avant de prendre la direction du terminal d'embarquement."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Bimmah Sinkhole, Dabab",
+          "categorie": "Curiosité naturelle",
+          "coords": { "lat": 23.0361, "lng": 59.0717 }
+        },
+        {
+          "nom_recherche": "Muscat International Airport, Mascate",
+          "categorie": "Aéroport",
+          "coords": { "lat": 23.5933, "lng": 58.2844 }
+        }
+      ],
+      "illustration": "jour7.jpg",
+      "encarts": [
+        {
+          "symbole": "🛬",
+          "titre": "Fin de séjour",
+          "texte": "L'accès aux abords du gouffre de Bimmah est entièrement sécurisé et aménagé avec des bancs ombragés."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "428 €/pers (A/R direct CDG-MCT)", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "180 €/pers (Location berline confortable et carburant)", "symbole": "🚗" },
+    { "titre": "Budget repas:", "legende": "160 €/pers (Cuisine locale, cafés et délices traditionnels)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "330 €/pers (Hôtels 3* de charme et camp bédouin)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "52 €/pers (Entrées des forts, oasis et sites préservés)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "De novembre à mars (hivers doux et ensoleillés)", "symbole": "☀️" },
+    { "titre": "Décembre (températures idéales entre 22°C et 27°C)", "symbole": "🌴" }
+  ],
+  "infos_pratiques": [
+    { "titre": "En décembre, climat idyllique avec 25°C en journée. Prévoir un gilet léger pour les soirées dans le désert.", "symbole": "☀️" },
+    { "titre": "Rial omanais (OMR). Carte bancaire courante, mais conservez du liquide pour les échoppes des souks.", "symbole": "💳" },
+    { "titre": "Routes impeccables et bien balisées. Conduite très respectueuse et vitesse limitée.", "symbole": "🚗" },
+    { "titre": "Achetez une eSIM ou une carte SIM locale (Omantel ou Ooredoo) à l'aéroport pour une connexion aisée.", "symbole": "📶" }
+  ],
+  "infos_decallees": [
+    {
+      "symbole": "🚗",
+      "titre": "L'amende pour voiture sale",
+      "texte": "À Oman, rouler avec un véhicule trop couvert de poussière est passible d'une amende : la propreté est élevée au rang de fierté civique !"
+    },
+    {
+      "symbole": "🌳",
+      "titre": "L'or parfumé plus cher que le métal",
+      "texte": "L'encens d'Oman issu des arbres du Dhofar était autrefois considéré comme la substance la plus précieuse au monde, troquée à prix d'or jusqu'à Rome."
+    }
+  ],
+  "specialites_culinaires": [
+    {
+      "symbole": "🍖",
+      "titre": "Le Shuwa",
+      "texte": "Viande d'agneau ou de cabri marinée aux épices douces, enveloppée dans des feuilles de bananier et cuite lentement pendant 24 à 48 heures dans un four de terre cuite creusé dans le sol."
+    },
+    {
+      "symbole": "☕",
+      "titre": "La Kahwa et dattes fraîches",
+      "texte": "Café traditionnel aromatisé délicatement à la cardamome et à l'eau de rose, servi sans sucre pour équilibrer la douceur des dattes charnues de l'oasis."
+    },
+    {
+      "symbole": "🍯",
+      "titre": "La Halwa omanaise",
+      "texte": "Douceur gélatineuse emblématique parfumée au safran, à la cardamome, aux amandes grillées et à l'eau de rose, concoctée dans de grands chaudrons de cuivre."
+    }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/CDG-MCT/2026-12-19/2026-12-26", "symbole": "🛬" },
+    { "legende": "Office de Tourisme", "titre": "Experience Oman", "url": "https://experienceoman.om/", "symbole": "📘" },
+    { "legende": "Météo locale", "titre": "AccuWeather Mascate", "url": "https://www.accuweather.com/fr/om/muscat/259160/weather-forecast/259160", "symbole": "🌤️" }
+  ]
+}
